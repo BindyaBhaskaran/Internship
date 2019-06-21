@@ -6,9 +6,9 @@ Write a function that takes a list of strings and prints them one per line in a 
             Output:  *********
                      * Hello *
                      * World *
-	                   * in    *
-	                   * a     *
-	                   * frame *
+	             * in    *
+	             * a     *
+	             * frame *
                      *********
                      
 ## How to run
