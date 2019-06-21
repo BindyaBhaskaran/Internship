@@ -1,5 +1,5 @@
 ## Question
-Write a function that takes a list of strings and prints them one per line in a  rectangular frame
+Write a function that takes a list of strings and prints them one per line in a  rectangular frame.
 
             Eg: List: [“Hello”,”World”,”in”,”a”,”Frame”]
 
@@ -14,5 +14,5 @@ Write a function that takes a list of strings and prints them one per line in a 
 ## How to compile
     gcc Frame.c -o frame
     
-##How to run
+## How to run
     ./frame
